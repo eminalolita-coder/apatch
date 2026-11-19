@@ -1,0 +1,2140 @@
+{
+    "AL": {
+        "country": "Albanie / Albania",
+        "isps": [
+            "albtelecom",
+            "plus communication",
+            "telekom albania",
+            "vodafone"
+        ]
+    },
+    "DZ": {
+        "country": "Algérie / Algeria",
+        "isps": [
+            "algerie telecom",
+            "djezzy",
+            "mobilis",
+            "ooredoo"
+        ]
+    },
+    "AO": {
+        "country": "Angola",
+        "isps": [
+            "angola telecom",
+            "ms telcom",
+            "movicel",
+            "startel",
+            "unitel"
+        ]
+    },
+    "AR": {
+        "country": "Argentine / Argentina",
+        "isps": [
+            "claro",
+            "movistar",
+			"teledifusora",
+            "nextel",
+            "personal",
+            "telecentro"
+        ]
+    },
+    "AM": {
+        "country": "Arménie / Armenia",
+        "isps": [
+            "beeline",
+            "rostelecom",
+            "ucom",
+            "vivacell mts"
+        ]
+    },
+    "AU": {
+        "country": "Australie / Australia",
+        "isps": [
+            "aldi",
+            "amaysim",
+            "aussie",
+			"microplex",
+            "belong",
+            "boost",
+			"vocus",
+            "dodo",
+			"space",
+            "optus",
+            "telstra",
+            "tpg",
+            "vodafone"
+        ]
+    },
+    "DE": {
+        "country": "Allemagne / Germany",
+        "isps": [
+            "1&1",
+            "aldi",
+            "congstar",
+            "deutsche",
+            "o2",
+			"tele",
+            "vodafone",
+            "1&1 dsl",
+            "netcologne",
+            "m-net",
+            "tele2",
+            "ewe tel",
+            "pŸur",
+            "unitymedia",
+            "hansenet",
+            "telefonica"
+        ]
+    },
+    "AT": {
+        "country": "Autriche / Austria",
+        "isps": [
+            "3",
+            "a1 telekom",
+            "bob",
+            "hot",
+            "inode",
+            "liwest",
+            "spusu",
+            "t-mobile",
+            "tele.ring",
+            "tele2",
+            "upc austria"
+        ]
+    },
+    "BH": {
+        "country": "Bahreïn / Bahrain",
+        "isps": [
+            "batelco",
+            "menatelecom",
+            "stc",
+            "viva",
+            "zain"
+        ]
+    },
+    "BD": {
+        "country": "Bangladesh",
+        "isps": [
+            "airtel",
+            "banglalink",
+            "grameenphone",
+            "robi",
+            "teletalk"
+        ]
+    },
+    "BB": {
+        "country": "Barbade / Barbados",
+        "isps": [
+            "digicel",
+            "flow"
+        ]
+    },
+    "BY": {
+        "country": "Biélorussie / Belarus",
+        "isps": [
+            "a1",
+            "beltelecom",
+            "diallog",
+            "life:)",
+            "mts",
+            "velcom"
+        ]
+    },
+    "BE": {
+        "country": "Belgique / Belgium",
+        "isps": [
+            "base",
+            "brutele",
+			"voo",
+			"hermes",
+			"belgacom",
+			"sewan",
+            "edpnet",
+            "lycamobile",
+            "mobistar",
+            "orange",
+            "proximus",
+            "scarlet",
+            "telenet",
+            "vicre",
+            "viking"
+        ]
+    },
+    "BZ": {
+        "country": "Belize",
+        "isps": [
+            "btl",
+            "speednet"
+        ]
+    },
+    "BJ": {
+        "country": "Bénin / Benin",
+        "isps": [
+            "glo",
+            "moov",
+            "mtn"
+        ]
+    },
+    "BT": {
+        "country": "Bhoutan / Bhutan",
+        "isps": [
+            "btcl",
+            "tashi cell"
+        ]
+    },
+    "BO": {
+        "country": "Bolivie / Bolivia",
+        "isps": [
+            "axiom",
+            "entel",
+			"telefonica",
+            "tigo",
+            "viva"
+        ]
+    },
+    "BA": {
+        "country": "Bosnie-Herzégovine / Bosnia and Herzegovina",
+        "isps": [
+            "bihnet",
+            "elnet",
+            "ht eronet",
+            "logosoft",
+            "mojnet",
+            "mtel",
+            "m:tel",
+            "sbb",
+            "telemach",
+            "telrad",
+            "tx tv"
+        ]
+    },
+    "BW": {
+        "country": "Botswana",
+        "isps": [
+            "btc",
+            "mascom",
+            "orange"
+        ]
+    },
+    "BR": {
+        "country": "Brésil / Brazil",
+        "isps": [
+            "algar",
+            "brt",
+			"v",
+			"sinal",
+			"ligga",
+			"mhnet",
+			"vero",
+			"master",
+			"proxxima",
+			"brisanet",
+			"mundivox",
+			"videomar",
+			"TELEFÔNICA",
+			"cilnet",
+			"samm",
+			"american",
+			"unifique",
+			"telecomunicacoes",
+			"telefonica",
+            "claro",
+			"alares",
+            "nextel",
+            "oi",
+            "sercomtel",
+            "tim",
+            "vivo"
+        ]
+    },
+    "BG": {
+        "country": "Bulgarie / Bulgaria",
+        "isps": [
+            "bulgartel",
+            "bulsatcom",
+            "globul",
+			"cooolbox",
+			"mitko",
+			"pan",
+			"skynet",
+			"telecabel",
+			"telehouse",
+			"nikem",
+			"vipnet",
+			"nas",
+			"net",
+			"liulin",
+			"comnet",
+			"optinet",
+			"angel",
+			"streamnet",
+			"pronet",
+			"m-real",
+			"bol",
+			"tamatiya",
+			"nikem",
+			"cifrova",
+			"ultranet",
+			"digital",
+			"escom",
+			"5kom",
+			"a1",
+			"cetin",
+			"space",
+			"new",
+            "max telecom",
+            "m-tel",
+            "networx",
+            "neterra",
+            "telenor",
+            "vivacom"
+        ]
+    },
+    "BF": {
+        "country": "Burkina Faso",
+        "isps": [
+            "onatel",
+            "orange burkina faso",
+            "telecel faso"
+        ]
+    },
+    "BI": {
+        "country": "Burundi",
+        "isps": [
+            "econet leo",
+            "lumitel",
+            "onamob",
+            "telecel burundi"
+        ]
+    },
+    "CV": {
+        "country": "Cap-Vert / Cape Verde",
+        "isps": [
+            "cv telecom",
+            "unitel t+"
+        ]
+    },
+    "KH": {
+        "country": "Cambodge / Cambodia",
+        "isps": [
+            "cellcard",
+            "metfone",
+            "qb",
+            "seatel",
+            "smart"
+        ]
+    },
+    "CM": {
+        "country": "Cameroun / Cameroon",
+        "isps": [
+            "camtel",
+            "mtn",
+            "nexttel",
+            "orange"
+        ]
+    },
+    "CA": {
+        "country": "Canada",
+        "isps": [
+            "bell",
+			"ebox",
+			"space",
+			"oxio",
+			"xplore",
+			"vianet",
+			"distributel",
+			"primus",
+			"eastlink",
+			"sogetel",
+			"altima",
+			"start",
+			"ontario",
+			"nexicom",
+			"vianet",
+            "eastlink",
+			"allstream",
+			"telebec",
+            "execulink",
+			"cogeco",
+			"primus",
+            "freedom",
+            "rogers",
+            "sasktel",
+            "shaw",
+            "tbaytel",
+            "telus",
+            "videotron"
+        ]
+    },
+    "CF": {
+        "country": "République centrafricaine / Central African Republic",
+        "isps": [
+            "azur",
+            "moov",
+            "orange",
+            "telecel"
+        ]
+    },
+    "TD": {
+        "country": "Tchad / Chad",
+        "isps": [
+            "airteltchad",
+            "sotel tchad",
+            "tigo"
+        ]
+    },
+    "CL": {
+        "country": "Chili / Chile",
+        "isps": [
+            "claro",
+            "entel",
+            "movistar",
+            "vtr",
+            "wom"
+        ]
+    },
+    "CN": {
+        "country": "Chine / China",
+        "isps": [
+            "china mobile",
+            "china telecom",
+            "china tietong",
+            "china unicom"
+        ]
+    },
+    "CO": {
+        "country": "Colombie / Colombia",
+        "isps": [
+            "avantel",
+            "claro",
+			"telmex",
+            "movistar",
+            "tigo",
+            "une"
+        ]
+    },
+    "KM": {
+        "country": "Comores / Comoros",
+        "isps": [
+            "comores telecom",
+            "telma comores"
+        ]
+    },
+    "CD": {
+        "country": "République démocratique du Congo / Democratic Republic of the Congo",
+        "isps": [
+            "africell",
+            "airtel",
+            "orange",
+            "vodacom"
+        ]
+    },
+    "CG": {
+        "country": "République du Congo / Republic of the Congo",
+        "isps": [
+            "airtel",
+            "azur",
+            "mtn",
+            "orange"
+        ]
+    },
+    "CR": {
+        "country": "Costa Rica",
+        "isps": [
+            "claro",
+            "kolbi",
+            "movistar"
+        ]
+    },
+    "HR": {
+        "country": "Croatie / Croatia",
+        "isps": [
+            "amicom",
+            "bnet",
+            "bonbon",
+            "evotv",
+            "iskon",
+            "metronet",
+            "optima",
+            "tele2",
+            "t-mobile",
+            "vipnet"
+        ]
+    },
+    "CU": {
+        "country": "Cuba",
+        "isps": [
+            "etecsa"
+        ]
+    },
+    "CY": {
+        "country": "Chypre / Cyprus",
+        "isps": [
+            "cablenet",
+            "cyprusnet",
+            "cyta",
+            "freecy",
+            "monaco telecom",
+            "mtng",
+            "multichoice hellas",
+            "primetel",
+            "telia",
+            "vodafone"
+        ]
+    },
+    "CZ": {
+        "country": "République tchèque / Czech Republic",
+        "isps": [
+            "o2",
+			"alfa",
+			"ceznet",
+			"wia",
+			"coprosys",
+			"internext",
+			"ipex",
+			"edera",
+			"dragon",
+			"quantcom",
+			"poda",
+			"original",
+			"cetin",
+			"cd",
+			"radiokomunikace",
+			"starnet",
+			"netbox",
+			"ha-vel",
+            "t-mobile",
+            "ufon",
+            "vodafone"
+        ]
+    },
+    "DK": {
+        "country": "Danemark / Denmark",
+        "isps": [
+            "3",
+            "call",
+            "cibicom",
+			"ewii",
+            "fibia",
+            "fullrate",
+            "stofa",
+            "telenor",
+            "telia",
+            "waoo",
+            "yousee"
+        ]
+    },
+    "DJ": {
+        "country": "Djibouti",
+        "isps": [
+            "djibouti telecom"
+        ]
+    },
+    "DM": {
+        "country": "Dominique / Dominica",
+        "isps": [
+            "digicel",
+            "lime"
+        ]
+    },
+    "DO": {
+        "country": "République dominicaine / Dominican Republic",
+        "isps": [
+            "altice",
+            "claro",
+            "viva"
+        ]
+    },
+    "EC": {
+        "country": "Équateur / Ecuador",
+        "isps": [
+            "claro",
+            "cnt",
+            "movistar"
+        ]
+    },
+    "EG": {
+        "country": "Égypte / Egypt",
+        "isps": [
+            "etisalat",
+            "orange",
+            "vodafone",
+            "we"
+        ]
+    },
+    "SV": {
+        "country": "Salvador / El Salvador",
+        "isps": [
+            "claro",
+			"millicom",
+            "digicel",
+            "movistar",
+            "tigo"
+        ]
+    },
+    "GQ": {
+        "country": "Guinée équatoriale / Equatorial Guinea",
+        "isps": [
+            "getesa",
+            "hits gq",
+            "mtn"
+        ]
+    },
+    "ER": {
+        "country": "Érythrée / Eritrea",
+        "isps": [
+            "eritrea telecom"
+        ]
+    },
+    "EE": {
+        "country": "Estonie / Estonia",
+        "isps": [
+            "elisa",
+            "eesti telecom",
+            "hot.ee",
+            "lebara",
+            "neti",
+            "smarttel",
+            "starman",
+            "tele2",
+            "telekom",
+            "telia"
+        ]
+    },
+    "SZ": {
+        "country": "Eswatini",
+        "isps": [
+            "mtne swatini",
+            "swazi mobile"
+        ]
+    },
+    "ET": {
+        "country": "Éthiopie / Ethiopia",
+        "isps": [
+            "ethiotelecom"
+        ]
+    },
+    "FJ": {
+        "country": "Fidji / Fiji",
+        "isps": [
+            "digicel",
+            "tfl",
+            "vodafone"
+        ]
+    },
+    "FI": {
+        "country": "Finlande / Finland",
+        "isps": [
+            "alfa",
+            "dna",
+            "elisa",
+            "finnet",
+            "inet",
+            "kolumbus",
+            "moi",
+            "netplaza",
+            "saunalahti",
+            "sonera",
+            "telia"
+        ]
+    },
+    "FR": {
+        "country": "France",
+        "isps": [
+            "alsatis",
+            "bouygues telecom",
+            "free",
+			"space",
+            "k-net",
+            "la poste mobile",
+            "neuf",
+            "nrj mobile",
+            "numericable",
+            "orange",
+            "red by sfr",
+            "sfr",
+            "sosh",
+            "virgin mobile",
+            "wibox"
+        ]
+    },
+    "GA": {
+        "country": "Gabon",
+        "isps": [
+            "airtell",
+            "gabon telecom",
+            "moov"
+        ]
+    },
+    "GM": {
+        "country": "Gambie / Gambia",
+        "isps": [
+            "africell",
+            "comium",
+            "gamcel",
+            "qcell"
+        ]
+    },
+    "GE": {
+        "country": "Géorgie / Georgia",
+        "isps": [
+            "beeline",
+            "geocell",
+            "magti"
+        ]
+    },
+    "GH": {
+        "country": "Ghana",
+        "isps": [
+            "airtel tigo",
+            "bluwireless",
+            "mtn",
+            "surfline",
+            "vodafone"
+        ]
+    },
+    "GR": {
+        "country": "Grèce / Greece",
+        "isps": [
+            "cosmote",
+            "cyta",
+            "vodafone",
+			"space",
+            "wind"
+        ]
+    },
+    "GD": {
+        "country": "Grenade / Grenada",
+        "isps": [
+            "digicel",
+            "flow"
+        ]
+    },
+    "GT": {
+        "country": "Guatemala",
+        "isps": [
+            "claro",
+			"sondatech",
+            "movistar",
+            "tigo"
+        ]
+    },
+    "GN": {
+        "country": "Guinée / Guinea",
+        "isps": [
+            "cellcom",
+            "mtn",
+            "orange",
+            "telecel"
+        ]
+    },
+    "GW": {
+        "country": "Guinée-Bissau / Guinea-Bissau",
+        "isps": [
+            "cotelgui",
+            "mtng",
+            "orange"
+        ]
+    },
+    "GY": {
+        "country": "Guyana",
+        "isps": [
+            "digicel",
+            "gtt"
+        ]
+    },
+    "HT": {
+        "country": "Haïti / Haiti",
+        "isps": [
+            "digicel",
+            "natcom"
+        ]
+    },
+    "HN": {
+        "country": "Honduras",
+        "isps": [
+            "claro",
+            "hondutel",
+            "tigo"
+        ]
+    },
+    "HU": {
+        "country": "Hongrie / Hungary",
+        "isps": [
+            "vodafone",
+            "telekom",
+			"t-mobile",
+            "yettel",
+			"telenor",
+            "digi",
+			"tv",
+			"kifu",
+			"vidanet",
+			"antenna",
+			"dravanet",
+			"eltenet",
+			"upc",
+            "magyar",
+            "one",
+            "one hungary",
+            "tarr",
+			"opticon",
+			"fiber",
+            "pr-telecom",
+            "4iG",
+            "vidanet",
+            "opc",
+			"mol",
+            "celldomolki",
+            "mvm net",
+            "naracom",
+            "parisat",
+			"invitech",
+            "znet",
+			"pr",
+            "oros",
+            "wla",
+            "eurocable",
+            "elektronet",
+            "bt"
+        ]
+    },
+    "IS": {
+        "country": "Islande / Iceland",
+        "isps": [
+            "hive",
+            "nova",
+            "siminn",
+            "tal",
+            "vodafone"
+        ]
+    },
+    "IN": {
+        "country": "Inde / India",
+        "isps": [
+            "airtel",
+            "bsnl",
+            "jio",
+            "mtnl",
+            "vodafone idea"
+        ]
+    },
+    "ID": {
+        "country": "Indonésie / Indonesia",
+        "isps": [
+            "indosat",
+            "smartfren",
+            "telkomsel",
+            "three",
+            "xl axiata"
+        ]
+    },
+    "IR": {
+        "country": "Iran",
+        "isps": [
+            "irancell",
+            "mci",
+            "rightel",
+            "tmc"
+        ]
+    },
+    "IQ": {
+        "country": "Irak / Iraq",
+        "isps": [
+            "asiacell",
+            "korek telecom",
+            "we iraq",
+            "zain"
+        ]
+    },
+    "IE": {
+        "country": "Irlande / Ireland",
+        "isps": [
+            "eir",
+            "tesco mobile",
+            "three",
+            "virgin media",
+            "vodafone"
+        ]
+    },
+    "IL": {
+        "country": "Israël / Israel",
+        "isps": [
+            "cellcom",
+            "golan telecom",
+            "hot mobile",
+            "partner",
+            "pelephone"
+        ]
+    },
+    "IT": {
+        "country": "Italie / Italy",
+        "isps": [
+            "eolo",
+            "fastweb",
+			"bt",
+			"vianova",
+			"fibercop",
+			"space",
+			"open",
+			"free",
+			"aruba",
+			"opnet",
+			"planetel",
+			"active",
+			"mynet",
+			"sky",
+			"telecom",
+            "iliad",
+            "linkem",
+            "navigare",
+            "poste mobile",
+            "telecom italia",
+            "tin.it",
+            "tiscali",
+            "vodafone",
+            "wind"
+        ]
+    },
+    "JM": {
+        "country": "Jamaïque / Jamaica",
+        "isps": [
+            "digicel",
+            "flow"
+        ]
+    },
+    "JP": {
+        "country": "Japon / Japan",
+        "isps": [
+            "kddi",
+			"access",
+            "ntt docomo",
+			"ntt",
+			"arteria",
+			"occn",
+			"ucom",
+			"hct",
+			"japan",
+			"internet",
+			"tcn",
+            "rakuten",
+            "softbank",
+            "arteria",
+            "sony",
+            "biglobe",
+            "ntt pc",
+            "freebit",
+            "asahi net",
+            "qtnet",
+            "jcom",
+            "stnet",
+            "kintetsu",
+            "itec",
+			"freebit",
+			"community",
+			"bekkoame",
+			"oita",
+			"edion",
+			"starcat",
+			"enecom",
+			"nsk",
+			"katch",
+            "au",
+			"kurashiki",
+			"himeji",
+			"yamaguchi",
+			"toyohashi",
+			"miyazaki",
+			"nagasaki",
+			"mitene",
+			"naganoken",
+			"okinawa",
+			"matsusaka",
+			"kyushu",
+			"ogaki",
+			"cable",
+			"shonan",
+			"btv",
+			"nihon",
+			"mirai",
+			"you",
+			"mics",
+			"hokkaido",
+			"densan",
+			"chukai",
+			"asahi",
+			"okayama",
+			"tokyo",
+			"nigata",
+			"obihiro",
+			"tv",
+			"tama",
+			"koshinomiyako",
+			"joetsu",
+			"chupicom",
+			"hamamatsu",
+			"utsunomiya",
+			"san-in cable",
+			"family",
+			"imizu",
+			"south",
+			"iruma",
+			"imizu",
+			"iwakuni",
+			"ueda",
+			"asahikawa",
+			"sendai",
+			"ctb",
+			"hachinohe",
+			"hikarinet",
+			"toshima",
+			"watarase",
+			"warabi",
+			"aomori",
+			"kagawa",
+			"ibara",
+			"tamashima",
+			"honjyo",
+			"kibi",
+			"omura",
+			"hagi",
+			"singtel",
+			"kcv",
+			"glbb"
+        ]
+    },
+    "JO": {
+        "country": "Jordanie / Jordan",
+        "isps": [
+            "orange",
+            "umniah",
+            "zain"
+        ]
+    },
+    "KE": {
+        "country": "Kenya",
+        "isps": [
+            "airtel",
+            "faiba",
+            "safaricom",
+            "telkom kenya"
+        ]
+    },
+    "KI": {
+        "country": "Kiribati",
+        "isps": [
+            "athkl"
+        ]
+    },
+    "KW": {
+        "country": "Koweït / Kuwait",
+        "isps": [
+            "ooredoo",
+            "stc",
+            "zain"
+        ]
+    },
+    "LA": {
+        "country": "Laos",
+        "isps": [
+            "beeline",
+            "laotel",
+            "tigo",
+            "unitel"
+        ]
+    },
+    "LV": {
+        "country": "Lettonie / Latvia",
+        "isps": [
+            "bite",
+            "latvijas mobilais telefons",
+            "tele2"
+        ]
+    },
+    "LB": {
+        "country": "Liban / Lebanon",
+        "isps": [
+            "alfa",
+            "touch"
+        ]
+    },
+    "LS": {
+        "country": "Lesotho",
+        "isps": [
+            "econet",
+            "vodacom"
+        ]
+    },
+    "LR": {
+        "country": "Libéria / Liberia",
+        "isps": [
+            "lonestar cell mtn",
+            "orange"
+        ]
+    },
+    "LY": {
+        "country": "Libye / Libya",
+        "isps": [
+            "al madar",
+            "huawei",
+            "libyana",
+            "ltt"
+        ]
+    },
+    "LI": {
+        "country": "Liechtenstein",
+        "isps": [
+            "cablecom",
+            "fl1",
+            "telnet"
+        ]
+    },
+    "LT": {
+        "country": "Lituanie / Lithuania",
+        "isps": [
+            "bite",
+            "tele2",
+            "telia"
+        ]
+    },
+    "LU": {
+        "country": "Luxembourg",
+        "isps": [
+            "orange",
+            "post",
+            "tango"
+        ]
+    },
+    "MG": {
+        "country": "Madagascar",
+        "isps": [
+            "airtel",
+            "orange",
+            "telma"
+        ]
+    },
+    "MW": {
+        "country": "Malawi",
+        "isps": [
+            "airtel",
+            "tnm"
+        ]
+    },
+    "MY": {
+        "country": "Malaisie / Malaysia",
+        "isps": [
+            "celcom",
+            "digi",
+            "maxis",
+            "redone",
+            "u mobile",
+            "unifi",
+            "yes"
+        ]
+    },
+    "MV": {
+        "country": "Maldives",
+        "isps": [
+            "dhiraagu",
+            "ooredoo"
+        ]
+    },
+    "ML": {
+        "country": "Mali",
+        "isps": [
+            "malitel",
+            "orange"
+        ]
+    },
+    "MT": {
+        "country": "Malte / Malta",
+        "isps": [
+            "go",
+            "melita",
+            "vodafone"
+        ]
+    },
+    "MH": {
+        "country": "Îles Marshall / Marshall Islands",
+        "isps": [
+            "marshall islands national telecommunications authority"
+        ]
+    },
+    "MR": {
+        "country": "Mauritanie / Mauritania",
+        "isps": [
+            "chinguittel",
+            "mattel",
+            "mauritel"
+        ]
+    },
+    "MU": {
+        "country": "Maurice / Mauritius",
+        "isps": [
+            "emtel",
+            "mtml",
+            "my.t"
+        ]
+    },
+    "MX": {
+        "country": "Mexique / Mexico",
+        "isps": [
+            "at&t",
+            "claro",
+            "movistar",
+            "telcel",
+			"total",
+            "weex"
+        ]
+    },
+    "FM": {
+        "country": "Micronésie / Micronesia",
+        "isps": [
+            "fsm telecom"
+        ]
+    },
+    "MD": {
+        "country": "Moldavie / Moldova",
+        "isps": [
+            "moldcell",
+            "orange",
+            "unite"
+        ]
+    },
+    "MC": {
+        "country": "Monaco",
+        "isps": [
+            "monaco telecom"
+        ]
+    },
+    "MN": {
+        "country": "Mongolie / Mongolia",
+        "isps": [
+            "g-mobile",
+            "mongol telecom",
+            "skytel",
+            "unitel"
+        ]
+    },
+    "ME": {
+        "country": "Monténégro / Montenegro",
+        "isps": [
+            "m:tel",
+            "t-com",
+            "telenor"
+        ]
+    },
+    "MA": {
+        "country": "Maroc / Morocco",
+        "isps": [
+            "iam",
+            "inwi",
+            "orange"
+        ]
+    },
+    "MZ": {
+        "country": "Mozambique",
+        "isps": [
+            "movitel",
+            "mcel",
+            "vodacom"
+        ]
+    },
+    "MM": {
+        "country": "Myanmar",
+        "isps": [
+            "mpt",
+            "mytel",
+            "ooredoo",
+            "telenor"
+        ]
+    },
+    "NA": {
+        "country": "Namibie / Namibia",
+        "isps": [
+            "leo",
+            "mtn",
+            "tn mobile"
+        ]
+    },
+    "NR": {
+        "country": "Nauru",
+        "isps": [
+            "digicel"
+        ]
+    },
+    "NP": {
+        "country": "Népal / Nepal",
+        "isps": [
+            "ncell",
+            "ntc",
+            "smart telecom"
+        ]
+    },
+    "NL": {
+        "country": "Pays-Bas / Netherlands",
+        "isps": [
+            "budget",
+            "caiway",
+            "fiber",
+			"odido",
+            "kpn",
+			"routit",
+            "solcon",
+            "t-mobile",
+            "tele2",
+            "vodafone",
+            "xs4all",
+            "youfone",
+            "ziggo"
+        ]
+    },
+    "NZ": {
+        "country": "Nouvelle-Zélande / New Zealand",
+        "isps": [
+            "2degrees",
+            "slingshot",
+			"compass",
+            "spark",
+            "trustpower",
+            "vodafone"
+        ]
+    },
+    "NI": {
+        "country": "Nicaragua",
+        "isps": [
+            "claro",
+            "movistar"
+        ]
+    },
+    "NE": {
+        "country": "Niger",
+        "isps": [
+            "airtel",
+            "moov",
+            "orange",
+            "sahelcom"
+        ]
+    },
+    "NG": {
+        "country": "Nigeria",
+        "isps": [
+            "9mobile",
+            "airtel",
+            "glo",
+            "mtn"
+        ]
+    },
+    "NO": {
+        "country": "Norvège / Norway",
+        "isps": [
+            "ice",
+            "telenor",
+			"altibox",
+            "telia"
+        ]
+    },
+    "OM": {
+        "country": "Oman",
+        "isps": [
+            "omantel",
+            "ooredoo",
+            "renna"
+        ]
+    },
+    "PK": {
+        "country": "Pakistan",
+        "isps": [
+            "jazz",
+            "telenor",
+            "ufone",
+            "zong"
+        ]
+    },
+    "PW": {
+        "country": "Palaos / Palau",
+        "isps": [
+            "palau national communications corp"
+        ]
+    },
+    "PA": {
+        "country": "Panama",
+        "isps": [
+            "cable & wireless",
+            "claro",
+            "mas movil",
+            "movistar"
+        ]
+    },
+    "PG": {
+        "country": "Papouasie-Nouvelle-Guinée / Papua New Guinea",
+        "isps": [
+            "bmobile",
+            "digicel"
+        ]
+    },
+    "PY": {
+        "country": "Paraguay",
+        "isps": [
+            "claro",
+            "personal",
+            "tigo",
+            "vox"
+        ]
+    },
+    "PE": {
+        "country": "Pérou / Peru",
+        "isps": [
+            "bitel",
+            "claro",
+            "entel",
+            "movistar"
+        ]
+    },
+    "PH": {
+        "country": "Philippines",
+        "isps": [
+            "globe",
+            "smart",
+            "ditto"
+        ]
+    },
+    "PL": {
+        "country": "Pologne / Poland",
+        "isps": [
+            "aero2",
+            "ineam",
+			"telekom",
+			"citylink",
+			"ett",
+			"globitel",
+			"grzegorz",
+			"itcomp",
+			"wave",
+			"fibo",
+			"steway",
+			"ipc",
+			"edial",
+			"orion",
+			"atmel",
+			"cheeloo",
+			"pavel",
+			"laguna",
+			"czeslaw",
+			"spolka",
+			"laito",
+			"alicja",
+			"enformatel",
+			"pssk",
+			"systel",
+			"jerzy",
+			"stowarzyszenie",
+			"spoldzielnia",
+			"rafal",
+			"wojciech",
+			"debacom",
+			"oxylion",
+			"exatel",
+			"idealan",
+			"atman",
+			"studio",
+			"vip",
+			"slavomir",
+			"net",
+			"plj",
+			"betanet",
+			"provector",
+			"dolnet",
+			"maxserwis",
+			"telekomunikacja",
+			"piotr",
+			"janusz",
+			"space",
+			"tel-kab",
+			"intera",
+			"aves",
+			"dar",
+			"marceli",
+			"wdm",
+			"virtual",
+			"rojek",
+			"rwd",
+			"maciej",
+			"kaspol",
+			"fiberway",
+			"east",
+			"krucznet",
+			"petrus",
+			"koba",
+			"obsluga",
+			"korbank",
+			"sat",
+			"eurolan",
+			"skyware",
+			"geckonet",
+			"uninet",
+			"kamil",
+			"jakub",
+			"multinet24",
+			"sptelek",
+			"sferanet",
+			"ryszard",
+			"marcin",
+			"polineo",
+			"firma",
+			"rybnet",
+			"lubonet",
+			"marek",
+			"kielce",
+			"energit",
+			"asta",
+			"zipnet",
+			"sylwester",
+			"gipernet",
+			"internet",
+			"fiberlink",
+			"dominet",
+			"greenlan",
+			"andrzej",
+			"k2",
+			"artur",
+			"przedsiebiorstwo",
+			"media",
+			"leon",
+			"telnap",
+            "multimedia",
+            "netia",
+			"poznanska",
+			"unitel",
+			"etth",
+			"tomasz",
+			"interarena",
+            "orange",
+			"onefone",
+            "play",
+			"ambit",
+			"pawel",
+			"zaklad",
+			"inm",
+			"itv",
+			"kopnet",
+			"euronet",
+			"krzysztof",
+			"supermedia",
+			"tk",
+			"integradesign",
+			"lukasz",
+			"mt spolka",
+			"toya",
+			"a-media",
+			"jmdi",
+            "plus",
+			"cloudflare",
+            "tmobile",
+            "t-mobile",
+            "sousa",
+			"tonetic",
+			"zdp",
+			"biznes",
+			"syrion",
+            "upc",
+            "p4",
+            "pulawska",
+            "sileman",
+            "polkomtel",
+            "homenet",
+            "ut",
+            "liberty",
+            "livenet",
+            "inea",
+            "beskid",
+            "telewizja",
+            "adam",
+            "vectra"
+        ]
+    },
+    "PT": {
+        "country": "Portugal",
+        "isps": [
+            "atinet",
+            "cabovisao",
+            "fibra",
+            "ispot",
+            "lycamobile",
+            "meo",
+			"pt",
+			"tvcabo",
+            "nos",
+			"tomas",
+			"dstelecom",
+			"xervers",
+			"lazer",
+			"sousa",
+			"LIMITBRAVITY",
+            "nowo",
+			"edgoo",
+			"interfiber",
+			"gotelecom",
+            "vodafone",
+            "vodanet"
+        ]
+    },
+    "QA": {
+        "country": "Qatar",
+        "isps": [
+            "ooredoo",
+            "vodafone"
+        ]
+    },
+    "KR": {
+        "country": "Corée du Sud / South Korea",
+        "isps": [
+            "kt",
+            "lg uplus",
+            "sk telecom"
+        ]
+    },
+    "MK": {
+        "country": "Macédoine du Nord / Republic of North Macedonia",
+        "isps": [
+            "mtn",
+            "one vip",
+            "t-mobile"
+        ]
+    },
+    "RO": {
+        "country": "Roumanie / Romania",
+        "isps": [
+            "cobalt",
+            "dialtelecom",
+            "digi",
+            "idilis",
+            "infotel",
+            "nextgen",
+            "orange",
+            "rds&rds",
+            "telekom",
+            "upc",
+            "vodafone"
+        ]
+    },
+    "RU": {
+        "country": "Russie / Russia",
+        "isps": [
+            "beeline",
+            "megafon",
+            "mts",
+            "rostelecom",
+            "tele2",
+            "yota"
+        ]
+    },
+    "RW": {
+        "country": "Rwanda",
+        "isps": [
+            "airtel",
+            "liquid telecom",
+            "mtn"
+        ]
+    },
+    "KN": {
+        "country": "Saint-Christophe-et-Niévès / Saint Kitts and Nevis",
+        "isps": [
+            "digicel",
+            "flow"
+            
+            
+        ]
+    },
+    "LC": {
+        "country": "Sainte-Lucie / Saint Lucia",
+        "isps": [
+            "digicel",
+            "flow"
+        ]
+    },
+    "VC": {
+        "country": "Saint-Vincent-et-les-Grenadines / Saint Vincent and the Grenadines",
+        "isps": [
+            "digicel",
+            "flow"
+        ]
+    },
+    "WS": {
+        "country": "Samoa",
+        "isps": [
+            "bluesky",
+            "digicel"
+        ]
+    },
+    "SM": {
+        "country": "Saint-Marin / San Marino",
+        "isps": [
+            "san marino telecom"
+        ]
+    },
+    "ST": {
+        "country": "Sao Tomé-et-Principe / Sao Tome and Principe",
+        "isps": [
+            "cst"
+        ]
+    },
+    "SA": {
+        "country": "Arabie Saoudite / Saudi Arabia",
+        "isps": [
+            "mobily",
+            "stc",
+            "zain"
+        ]
+    },
+    "SN": {
+        "country": "Sénégal / Senegal",
+        "isps": [
+            "expresso",
+            "free",
+            "orange"
+        ]
+    },
+    "RS": {
+        "country": "Serbie / Serbia",
+        "isps": [
+            "mts",
+            "orion telekom",
+            "telenor",
+            "vip mobile"
+        ]
+    },
+    "SC": {
+        "country": "Seychelles",
+        "isps": [
+            "airtell",
+            "cable and wireless"
+        ]
+    },
+    "SL": {
+        "country": "Sierra Leone",
+        "isps": [
+            "africell",
+            "orange",
+            "qcell"
+        ]
+    },
+    "SG": {
+        "country": "Singapour / Singapore",
+        "isps": [
+            "m1",
+            "singtel",
+            "starhub",
+            "tpg"
+        ]
+    },
+    "SK": {
+        "country": "Slovaquie / Slovakia",
+        "isps": [
+            "4ka",
+            "o2",
+			"slovanet",
+            "orange",
+            "telekom"
+        ]
+    },
+    "SI": {
+        "country": "Slovénie / Slovenia",
+        "isps": [
+            "a1",
+            "t-2",
+            "telemach",
+            "telekom slovenije"
+        ]
+    },
+    "SB": {
+        "country": "Îles Salomon / Solomon Islands",
+        "isps": [
+            "bemobile",
+            "telekom"
+        ]
+    },
+    "SO": {
+        "country": "Somalie / Somalia",
+        "isps": [
+            "golis",
+            "hormuud",
+            "nationlink",
+            "somtel"
+        ]
+    },
+    "ZA": {
+        "country": "Afrique du Sud / South Africa",
+        "isps": [
+            "Vodacom",
+            "MTN South Africa",
+            "Cell C",
+            "Telkom SA SOC Limited",
+            "Rain",
+            "Virgin Mobile South Africa",
+            "Saicom South Africa",
+            "ATC South Africa",
+            "Huge Telecom",
+            "HD Telecoms",
+            "Voys Telecom",
+            "Liquid Intelligent Technologies"
+        ]
+    },
+    "ES": {
+        "country": "Espagne / Spain",
+        "isps": [
+            "aire",
+            "euskatel",
+			"r",
+			"cable",
+			"telfy",
+			"jetnet",
+			"fibergreen",
+			"telecom",
+			"xtra",
+			"digi",
+			"avatel",
+			"adamo",
+			"telefonica",
+            "jazztel",
+            "lycamobile",
+            "masmovil",
+            "movistar",
+            "orange",
+            "telecable",
+            "vodafone",
+            "vodanet",
+            "yoigo"
+        ]
+    },
+    "LK": {
+        "country": "Sri Lanka",
+        "isps": [
+            "airtel",
+            "dialog",
+            "hutch",
+            "mobitel"
+        ]
+    },
+    "SD": {
+        "country": "Soudan / Sudan",
+        "isps": [
+            "mtc",
+            "sudani",
+            "zain"
+        ]
+    },
+    "SR": {
+        "country": "Suriname",
+        "isps": [
+            "digicel",
+            "telesur"
+        ]
+    },
+    "SE": {
+        "country": "Suède / Sweden",
+        "isps": [
+            "alltele",
+            "bahnhof",
+            "bredbandsbolaget",
+            "comviq",
+            "glocalnet",
+            "hallon",
+            "lycamobile",
+            "tele2",
+            "telia",
+            "tre",
+            "vivas"
+        ]
+    },
+    "CH": {
+        "country": "Suisse / Switzerland",
+        "isps": [
+            "salt",
+            "sunrise",
+			"quickline",
+			"netconnect",
+			"netplus",
+			"vtx",
+            "swisscom",
+            "talktalk",
+            "yallo",
+            "lycamobile"
+        ]
+    },
+    "TW": {
+        "country": "Taïwan / Taiwan",
+        "isps": [
+            "chunghwa",
+            "far eastone",
+            "t star",
+            "taiwan mobile"
+        ]
+    },
+    "TJ": {
+        "country": "Tadjikistan / Tajikistan",
+        "isps": [
+            "babylon-m",
+            "beeline",
+            "mlt",
+            "tcell"
+        ]
+    },
+    "TZ": {
+        "country": "Tanzanie / Tanzania",
+        "isps": [
+            "airtelt",
+            "halotel",
+            "tigo",
+            "ttcl",
+            "vodacom",
+            "zantel"
+        ]
+    },
+    "TH": {
+        "country": "Thaïlande / Thailand",
+        "isps": [
+            "ais",
+            "dtac",
+            "mybycat",
+            "true move"
+        ]
+    },
+    "TL": {
+        "country": "Timor oriental / Timor-Leste",
+        "isps": [
+            "telkomcel",
+            "timor telecom"
+        ]
+    },
+    "TG": {
+        "country": "Togo",
+        "isps": [
+            "moov",
+            "togocel"
+        ]
+    },
+    "TO": {
+        "country": "Tonga",
+        "isps": [
+            "digicel",
+            "tcc"
+        ]
+    },
+    "TT": {
+        "country": "Trinité-et-Tobago / Trinidad and Tobago",
+        "isps": [
+            "bmobile",
+            "digicel"
+        ]
+    },
+    "TN": {
+        "country": "Tunisie / Tunisia",
+        "isps": [
+            "ooredoo",
+            "orange",
+            "tunisie telecom"
+        ]
+    },
+    "TV": {
+        "country": "Tuvalu",
+        "isps": [
+            "tuvalu telecommunications corporation"
+        ]
+    },
+    "UG": {
+        "country": "Ouganda / Uganda",
+        "isps": [
+            "africell",
+            "airtel",
+            "mtn",
+            "utl"
+        ]
+    },
+    "UA": {
+        "country": "Ukraine",
+        "isps": [
+            "kyivstar",
+            "lifecell",
+            "trimob",
+            "vodafone"
+        ]
+    },
+    "AE": {
+        "country": "Émirats arabes unis / United Arab Emirates",
+        "isps": [
+            "du",
+            "etisalat"
+        ]
+    },
+    "GB": {
+        "country": "Royaume-Uni / United Kingdom",
+        "isps": [
+            "bt",
+            "ee",
+			"colt",
+			"ccs",
+			"orbital",
+			"wavenet",
+			"wildanet",
+			"rocket",
+			"persimmon",
+			"gamma",
+			"toob",
+			"cadence",
+			"f&w",
+			"virtual",
+			"marex",
+			"full",
+			"british",
+			"hutchison",
+            "giffgaff",
+			"zzoomm",
+			"open",
+			"brsk",
+			"jurassic",
+			"zone",
+			"voiceflex",
+			"yayzi",
+			"space",
+			"sohonet",
+			"plan",
+			"wessex",
+			"youFibre",
+			"community",
+			"gigaclear",
+			"telefonica",
+            "hyperoptic",
+            "lebara",
+            "plusnet",
+            "sky",
+			"daisy",
+			"mll",
+			"telcom",
+			"kcom",
+			"wightfibre",
+			"lightning",
+			"fibrus",
+            "talktalk",
+            "three",
+            "utility warehouse",
+            "virgin media",
+			"trooli",
+            "vodafone",
+            "zen"
+        ]
+    },
+    "US": {
+        "country": "États-Unis / United States",
+        "isps": [
+            "at&t",
+            "centurylink",
+			"fibernet",
+			"greenlight",
+            "comcast",
+			"metronet",
+			"netskope",
+			"grande",
+			"wideopenwest",
+			"conexon",
+			"new",
+			"ritter",
+			"wire",
+			"fidium",
+			"north",
+			"central",
+            "cox",
+			"wave",
+			"rcn",
+			"hill",
+			"space",
+			"uniti",
+			"hargray",
+			"horry",
+			"breezeline",
+			"cable",
+			"charter",
+            "frontier",
+			"gonetspeed",
+			"gtt",
+            "optimum",
+            "spectrum",
+            "sprint",
+			"windstream",
+            "suddenlink",
+            "t-mobile",
+            "verizon",
+            "xfinity"
+        ]
+    },
+    "UY": {
+        "country": "Uruguay",
+        "isps": [
+            "antel",
+			"tecnowind",
+			"telstar",
+			"techtel",
+			"riselco",
+			"monte",
+			"vcr",
+			"praiamar",
+			"tractoral",
+			"telemas",
+			"cooperación",
+			"administracion",
+            "claro",
+			"telefonica",
+            "movistar"
+        ]
+    },
+    "VU": {
+        "country": "Vanuatu",
+        "isps": [
+            "digicel",
+            "tvl"
+        ]
+    },
+    "VE": {
+        "country": "Venezuela",
+        "isps": [
+            "digitel",
+            "movilnet",
+            "movistar"
+        ]
+    },
+    "VN": {
+        "country": "Vietnam",
+        "isps": [
+            "mobifone",
+            "vinaphone",
+            "viettel",
+            "vietnamobile"
+        ]
+    },
+    "YE": {
+        "country": "Yémen / Yemen",
+        "isps": [
+            "mtnt",
+            "sabafon",
+            "y telecom",
+            "yemen mobile"
+        ]
+    },
+    "ZM": {
+        "country": "Zambie / Zambia",
+        "isps": [
+            "airtel",
+            "mtnt",
+            "zamnet",
+            "zamtel"
+        ]
+    },
+    "ZW": {
+        "country": "Zimbabwe",
+        "isps": [
+            "econet",
+            "netone",
+            "telecel"
+        ]
+    }
+}
