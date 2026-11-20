@@ -1,0 +1,150 @@
+body {
+    background-color: rgb(23, 23, 28);
+  }
+  @media (min-width: 768px) {
+.kQhsYK {
+  background-image: none;
+}
+  }
+@media (min-width: 480px) {
+.kQhsYK {
+  height: 72px;
+}
+}
+.kQhsYK {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25) 51%, rgba(0, 0, 0, 0.4));
+  height: 52px;
+  border-bottom: 1px solid rgb(49, 52, 62);
+  background-color: rgb(26, 29, 41);
+}
+@media (min-width: 768px) {
+.fhaErk {
+  padding: 0px 36px;
+}
+}
+.fhaErk {
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-flow: row;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  left: 0px;
+  padding: 0px 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease-in-out 0s;
+  will-change: background-color, height;
+  height: 72px;
+  z-index: 1;
+}
+* {
+  box-sizing: border-box;
+}
+user agent stylesheet
+nav {
+  display: block;
+}
+#email {
+margin-bottom: 10px;
+}
+.ftqojJ {
+  display: flex;
+  margin: 0px auto;
+  -webkit-box-pack: center;
+  justify-content: center;
+  flex-flow: wrap;
+}
+* {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+#app_body_content {
+  -webkit-font-smoothing: antialiased;
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.link.link--primary {
+  color: #f9f9f9;
+}
+.typeramp-avenir-world-for-disney .metadata {
+  font-family: Avenir-World-for-Disney-Regular,sans-serif;
+  font-size: 12px;
+  letter-spacing: -.1px;
+  line-height: 1.5;
+}
+@media screen and (max-width: 768px) {
+
+.cPYkkK {
+  margin: 11px 1px 10px;
+}
+}
+.cPYkkK {
+  margin: 11px 5px 10px;
+}
+.link {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+.metadata {
+  font-family: Avenir-World-for-Disney-Regular,sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+}
+[type=button], [type=reset], [type=submit], button {
+  -webkit-appearance: button;
+}
+button, select {
+  text-transform: none;
+}
+button, input {
+  overflow: visible;
+}
+button, input, optgroup, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+button {
+  appearance: auto;
+  text-rendering: auto;
+  color: buttontext;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: center;
+  align-items: flex-start;
+  cursor: default;
+  box-sizing: border-box;
+  background-color: buttonface;
+  writing-mode: horizontal-tb !important;
+  margin: 0em;
+  padding-block: 1px;
+  padding-inline: 6px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonborder;
+  border-image: initial;
+}
+
+.button--primary {
+  margin-top: 20px;
+}
+
